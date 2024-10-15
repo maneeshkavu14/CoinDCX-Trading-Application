@@ -73,7 +73,7 @@ C:\path\CoinDCX-Trading-App
      ```
    - Compile the Java files using the following command:
      ```bash
-     javac -d . com\coindcx\websocket\WebSocketClient.java com\coindcx\payload\PayloadPreparer.java com\coindcx\ui\CLI.java com\coindcx\util\LoggerUtil.java com\coindcx\Main.java
+     javac com\coindcx\websocket\WebSocketClient.java com\coindcx\payload\PayloadPreparer.java com\coindcx\ui\CLI.java com\coindcx\util\LoggerUtil.java com\coindcx\Main.java
      ```
    - This will create the necessary class files in the appropriate package structure.
 
